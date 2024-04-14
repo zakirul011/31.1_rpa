@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Mohave';
+    src: url('Mohave-Bold.eot');
+    src: url('Mohave-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Mohave-Bold.woff2') format('woff2'),
+        url('Mohave-Bold.woff') format('woff'),
+        url('Mohave-Bold.ttf') format('truetype'),
+        url('Mohave-Bold.svg#Mohave-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mohave';
+    src: url('Mohave-Medium.eot');
+    src: url('Mohave-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Mohave-Medium.woff2') format('woff2'),
+        url('Mohave-Medium.woff') format('woff'),
+        url('Mohave-Medium.ttf') format('truetype'),
+        url('Mohave-Medium.svg#Mohave-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mohave';
+    src: url('Mohave-Regular.eot');
+    src: url('Mohave-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Mohave-Regular.woff2') format('woff2'),
+        url('Mohave-Regular.woff') format('woff'),
+        url('Mohave-Regular.ttf') format('truetype'),
+        url('Mohave-Regular.svg#Mohave-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
